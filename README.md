@@ -4,12 +4,6 @@ Boilerplate of React Native module for android
 
 ## Installation
 
-First install the npm package from your app directory:
-
-```javascript
-npm install react-native-sound --save
-```
-
 ### Installation on Android
 
 Edit `android/settings.gradle` to declare the project directory:
