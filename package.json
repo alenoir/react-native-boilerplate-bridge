@@ -1,15 +1,32 @@
 {
+  "name": "react-native-boilerplate-bridge",
+  "version": "1.0.0",
+  "description": "Boilerplate for react-native bridge",
   "author": {
     "email": "antoine.alenoir@gmail.com",
     "name": "Antoine Lenoir"
   },
-  "license": "MIT",
+  "keywords": [
+    "boilerplate",
+    "react-native",
+    "android",
+    "bridge"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "main": "index.js",
-  "name": "react-native-boilerplate-bridge",
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/alenoir/react-native-boilerplate-bridge"
+  },
+  "bugs": {
+    "url": "https://github.com/alenoir/react-native-boilerplate-bridge/issues"
+  },
+  "homepage": "https://github.com/alenoir/react-native-boilerplate-bridge",
+  "license": "MIT",
   "peerDependencies": {
     "react-native": ">=0.8.0"
-  },
-  "readme": "ERROR: No README data found!",
-  "scripts": {},
-  "version": "0.0.1"
+  }
 }
