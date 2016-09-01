@@ -1,0 +1,15 @@
+{
+  "author": {
+    "email": "antoine.alenoir@gmail.com",
+    "name": "Antoine Lenoir"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-boilerplate-bridge",
+  "peerDependencies": {
+    "react-native": ">=0.8.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "0.0.1"
+}
