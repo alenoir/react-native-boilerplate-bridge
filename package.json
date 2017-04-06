@@ -27,6 +27,6 @@
   "homepage": "https://github.com/alenoir/react-native-boilerplate-bridge",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": ">=0.8.0"
+    "react-native": ">=0.43.2"
   }
 }
